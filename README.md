@@ -1,8 +1,4 @@
-Sure! Here's the complete **README.md** text you can copy and paste directly into your GitHub project for your **Plant Disease Classification using CNNs**:
 
----
-
-```markdown
 # 🌿 Plant Disease Classification Using CNN Architectures
 
 This project uses deep learning models to classify plant diseases from leaf images. It leverages powerful Convolutional Neural Networks (CNNs) like **VGG16**, **VGG19**, **MobileNet**, and custom CNNs on a new, custom dataset of plant images. The goal is to assist in early and accurate detection of diseases to help farmers and researchers.
